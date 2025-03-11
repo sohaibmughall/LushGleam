@@ -29,7 +29,7 @@ export default function Home() {
             >
               Glow Naturally,
               <br />
-              <span className="font-medium">Shine Sustainably</span>
+              <span className="font-medium">Shine Sustainablyss</span>
             </motion.h1>
             <motion.p
               className="text-xl mb-8 text-white/90"
